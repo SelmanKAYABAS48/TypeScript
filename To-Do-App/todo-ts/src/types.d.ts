@@ -1,0 +1,1 @@
+type AddFn = (task:string)=> Promise<void>
